@@ -1,6 +1,1 @@
-I've learned about the importance of Version Control, what are some tools that can be used with git. I've learned about braches, how they allow you to work simultaniously with your colleagues. I've learned about the git commands.
-
-
-
-
-
+'I learned how to create a new file and write into it and edit it from cmd, I created my first ever .gitignore file. I am glad you pushed us to do this homework. Thanks!' 
